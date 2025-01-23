@@ -1,4 +1,3 @@
- .vimrc                                                                                                                   
 set nocompatible
 
 set number
